@@ -1,0 +1,38 @@
+<%
+=begin%>
+ <h1>New Action</h1> 
+<%
+=end%>
+
+<%
+=begin%>
+ <%= form_with model: @student do |form| %>
+  <div>
+    <%= form.label :name %><br>
+    <%= form.text_field  :name %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %> 
+<%
+=end%>
+<%
+=begin%>
+ <form action="/student" accept-charset="UTF-8" method="post">
+<div>
+  <label for="name">Name:</label>
+  <input type="text" name="name"><br><br>
+  </div>
+  <div>
+  <input type="submit"> 
+  </div>
+</form> 
+<%
+=end%>
+
+<h1>New Article</h1>
+
+<%= render "form", student: @student %>
+

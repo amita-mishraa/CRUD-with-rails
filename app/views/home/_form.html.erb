@@ -1,0 +1,13 @@
+<%= form_with url: "/home", method: :post do |form| %>
+  <div>
+    <%= form.label :name %><br><br>
+    <%= form.text_field :name %>
+    <%  @student.errors.full_messages_for(:name).each do |message| %>
+      <div><%= message %></div>
+    <% end %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

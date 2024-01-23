@@ -1,0 +1,31 @@
+ => 
+[[32m#<Student:0x00007fa969b8d8e0[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mAmita[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:10:11.240303000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:10:11.240303000 UTC +00:00[32m>[0m,
+ [32m#<Student:0x00007fa969c4af08[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mankit[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:11:02.184348000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:11:02.184348000 UTC +00:00[32m>[0m,
+ [32m#<Student:0x00007fa969c4adc8[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mankita[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:11:53.326876000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:11:53.326876000 UTC +00:00[32m>[0m,
+ [32m#<Student:0x00007fa969c4ac88[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mayushi[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:12:05.277220000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:12:05.277220000 UTC +00:00[32m>[0m,
+ [32m#<Student:0x00007fa969c4ab48[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mabhishek[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:12:25.894066000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:12:25.894066000 UTC +00:00[32m>[0m,
+ [32m#<Student:0x00007fa969c4aa08[0m
+  id: [34m[1m6[0m,
+  name: [31m[1m"[0m[31mamisha[0m[31m[1m"[0m,
+  created_at: Mon, 22 Jan 2024 06:12:39.429890000 UTC +00:00,
+  updated_at: Mon, 22 Jan 2024 06:12:39.429890000 UTC +00:00[32m>[0m] 

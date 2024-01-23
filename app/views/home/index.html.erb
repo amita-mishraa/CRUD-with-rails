@@ -1,0 +1,14 @@
+ <h4>Heading</h4>
+ 
+<p>This is a rails</p>
+
+<h1>Students</h1>
+
+<ul>
+  <% @student.each do |student| %>
+    <li>
+      <%= student.name %>
+    <li><%=link_to 'Edit',"/home/#{params['id']}/edit" %></li>
+    </li>
+  <% end %>
+</ul> 
